@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My App Portfolio</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="portfolio_title_text_view">My Nanodegree Apps!</string>
+    <string name="first_project_button">Popular Movies</string>
+    <string name="second_project_button">Super Duo</string>
+    <string name="third_project_button">Build it Bigger</string>
+    <string name="fourth_project_button">XYZ Reader</string>
+    <string name="final_project_button">Capstone</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Portfolio_layout_background">#E3F2FD</color> //Blue 50
+    <color name="Portfolio_button_color">#64B5F6</color>      //Blue 300
+    <color name="Capstone_button_color">#FF80AB</color>       //Pink A100
+</resources>
